@@ -5,6 +5,7 @@ Srijit Seal, Hongbin Yang, Maria-Anna Trapotsi, Satvik Singh, Jordi Carreras-Pui
 
 doi: https://doi.org/10.1101/2022.08.11.503624
 
+![Abstract](https://user-images.githubusercontent.com/58182863/216838146-360cbb47-d18f-4461-8443-0e0e443a0dc6.png)
 
 Abstract
 The applicability domain of machine learning models trained on structural fingerprints for the prediction of biological endpoints is often limited 
