@@ -1,5 +1,5 @@
-# Merging_Bioactivity_Predictions_CellPainting_Chemical_Structure_Similarity
-Merging Bioactivity Predictions from Cell Morphology and Chemical Fingerprint Models Using Similarity to Training Data
+
+#Merging Bioactivity Predictions from Cell Morphology and Chemical Fingerprint Models Using Similarity to Training Data
 
 Merging Bioactivity Predictions from Cell Morphology and Chemical Fingerprint Models Using Similarity to Training Data
 Srijit Seal, Hongbin Yang, Maria-Anna Trapotsi, Satvik Singh, Jordi Carreras-Puigvert, Ola Spjuth, Andreas Bender
@@ -20,6 +20,5 @@ extrapolating to new structural and morphology spaces.
 
 Competing Interest Statement
 The authors have declared no competing interest.
-
 
 https://www.biorxiv.org/content/10.1101/2022.08.11.503624v3
