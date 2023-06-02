@@ -4,7 +4,7 @@ Merging Bioactivity Predictions from Cell Morphology and Chemical Fingerprint Mo
 Srijit Seal, Hongbin Yang, Maria-Anna Trapotsi, Satvik Singh, Jordi Carreras-Puigvert, Ola Spjuth, Andreas Bender
 
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00723-x
-doi: https://doi.org/10.1101/2022.08.11.503624
+
 
 ![Abstract](https://user-images.githubusercontent.com/58182863/216838146-360cbb47-d18f-4461-8443-0e0e443a0dc6.png)
 
